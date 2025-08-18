@@ -1,0 +1,63 @@
+/* rgb(47, 255, 200) */
+html {
+    background-color: rgb(59, 62, 216);
+    /* background-color: rgb(18, 132, 106); */
+    /* background-color: rgb(94, 51, 16); */
+    height: 1000%;
+}
+/* Assignment 2 */
+/* I dont have any h1 */
+h2 {
+    color: blue
+}
+
+.hobbies-list {
+    color: cyan;
+    
+}
+#calendar {
+    color: cyan;
+}
+
+/* Assignment 3 */
+/* headings */
+.about-me-title {
+    font-size: 30px;
+    color: cyan;
+    font-family: inherit;
+
+}
+
+.my-hobbies-title {
+    font-size: 30px;
+    color: cyan;
+    font-family:inherit;
+    margin: 50px 0px auto;
+}
+
+.my-weekly-schedule {
+    font-size: 30px;
+    font-family: inherit;
+    padding: 50px 0px 10px;
+}
+
+/* paragraphs/sentences */
+.about-me {
+    color: cyan;
+    font-family: cursive;
+    font-size: medium;
+}
+
+/* links color */
+a {
+    color :lightblue;
+}
+
+img {
+    border-style: solid;
+    border-color: cyan;
+}
+
+/* Assignment 4 */
+/* already added clasees/id */
+/* styled them differently */
