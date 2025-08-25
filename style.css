@@ -1,5 +1,5 @@
 /* rgb(47, 255, 200) */
-html {
+.entire-page {
     background-color: rgb(59, 62, 216);
     /* background-color: rgb(18, 132, 106); */
     /* background-color: rgb(94, 51, 16); */
@@ -7,9 +7,15 @@ html {
 }
 /* Assignment 2 */
 /* I dont have any h1 */
-h2 {
+.about-me-title {
     color: blue
 }
+
+.my-hobbies-title{
+    color:blue
+}
+
+
 
 .hobbies-list {
     color: cyan;
@@ -49,11 +55,11 @@ h2 {
 }
 
 /* links color */
-a {
+.lafayette-link, .bcca-link {
     color :lightblue;
 }
 
-img {
+.video-game-image, .bowling-image, .four-wheeler, .ferrari-one, .ferrari-two, .ford-gt, .cobra-one, .cobra-two {
     border-style: solid;
     border-color: cyan;
 }
